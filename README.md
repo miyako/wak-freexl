@@ -5,7 +5,7 @@ Wakanda module to use FreeXL
 
 Example
 -------
-Run the project, open index.html and drag and drop an XLS file.
+Run the project, open index.html, drag and drop an XLS document.
 
 ![](https://github.com/miyako/wak-freexl/blob/master/images/screenshot.png)
 
