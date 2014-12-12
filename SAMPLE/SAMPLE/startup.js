@@ -1,0 +1,1 @@
+﻿var HANDLERS = [	{		'pattern':'^/xl/tosql',		'path':getFolder().path + 'xl/index.js',		'function':'toSQL'	}]HANDLERS.forEach(function(h, i){	addHttpRequestHandler(h.pattern, h.path, h['function']);});
