@@ -1,7 +1,7 @@
 wak-freexl
 ==========
 
-Wakanda module to use FreeXL
+Wakanda module to use [FreeXL](https://www.gaia-gis.it/fossil/freexl/index).
 
 Example
 -------
