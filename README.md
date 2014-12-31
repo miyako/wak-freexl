@@ -17,3 +17,6 @@ var path = getFolder().path + 'Documents/tester1.xls'
 
 xl.toSQL(path);
 ```
+XLS To JSON
+-----------
+![](https://github.com/miyako/wak-freexl/blob/master/images/tojson.png)
