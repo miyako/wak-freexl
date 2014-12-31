@@ -1,1 +1,1 @@
-﻿var modulesFolder = FileSystemSync('Modules');var xl = require(modulesFolder.path + 'xl');var path = getFolder().path + 'Documents/tester1.xls'xl.toSQL(path);
+﻿var modulesFolder = FileSystemSync('Modules');var xl = require(modulesFolder.path + 'xl');var path = getFolder().path + 'Documents/tester1.xls'xl.toJSON(path);
