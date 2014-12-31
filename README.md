@@ -26,3 +26,5 @@ xl.toSQL(path);
 XLS To JSON
 -----------
 ![](https://github.com/miyako/wak-freexl/blob/master/images/tojson.png)
+
+Source repository is [here](https://github.com/miyako/console-xml-to-json).
