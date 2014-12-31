@@ -5,9 +5,9 @@ Wakanda module to use [FreeXL](https://www.gaia-gis.it/fossil/freexl/index).
 
 * libjson/7.6.1
 * libiconv/1.14
-* libfreexl/1.0.0g
+* libfreexl/1.0.0g/h
 
-Mac OS X, Windows x64, ~~Linux x64~~
+Mac OS X, Windows x64, Linux x64
 
 Example
 -------
