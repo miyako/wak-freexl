@@ -3,6 +3,12 @@ wak-freexl
 
 Wakanda module to use [FreeXL](https://www.gaia-gis.it/fossil/freexl/index).
 
+* libjson/7.6.1
+* libiconv/1.14
+* libfreexl/1.0.0g
+
+Mac OS X, WIndows x64, ~~Linux x64~~
+
 Example
 -------
 Run the project, open index.html, drag and drop an XLS document.
